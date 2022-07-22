@@ -1,2 +1,3 @@
 fichero de texto fich1
-modificación fich1
+modificación fich1 en develop
+modificación2 fich1 en develop
