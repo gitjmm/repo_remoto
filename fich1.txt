@@ -1,3 +1,8 @@
 fichero de texto fich1
+<<<<<<< HEAD
 modificación fich1 en develop
 modificación2 fich1 en develop
+=======
+modifico fich1 en master
+modificación2 fich1 en master
+>>>>>>> master
