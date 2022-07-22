@@ -5,4 +5,8 @@ modificación2 fich1 en develop
 =======
 modifico fich1 en master
 modificación2 fich1 en master
+<<<<<<< HEAD
+>>>>>>> master
+=======
+modificación3 fich1 en master
 >>>>>>> master
